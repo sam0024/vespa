@@ -17,7 +17,7 @@
   },
   "author": "Redux Framework Team",
   "license": "GPL-2.0-or-later",
-  "homepage": "http://reduxframework.com",
+  "homepage": "http://reduxframework.com/",
   "devDependencies": {
     "compass-options": "^0.1.1",
     "grunt": "^1.0.3",
